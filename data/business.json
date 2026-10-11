@@ -163,7 +163,7 @@
     "registrationId": null,
     "vatId": null,
     "host": "GitHub Pages, GitHub, Inc.",
-    "privacy": "Cette démonstration ne comporte ni compte ni formulaire d’envoi. Les données affichées sont fictives. GitHub Pages conserve des données de connexion pour la sécurité; les polices sont chargées depuis Google Fonts.",
+    "privacy": "Cette démonstration ne comporte ni compte ni formulaire d’envoi. Les données affichées sont fictives. GitHub Pages conserve des données de connexion pour la sécurité.",
     "note": "Aucune identité juridique réelle n’est simulée; les mentions du client devront être confirmées avant publication."
   },
   "faq": [
@@ -194,7 +194,7 @@
   ],
   "media": {
     "hero": {
-      "src": "assets/hero.png",
+      "src": "assets/hero-v2.webp",
       "alt": "Composition illustrative de burgers, frites et poulet pour le restaurant fictif Maison Braise",
       "origin": "AI-generated illustrative asset",
       "notActualRestaurantPhoto": true
