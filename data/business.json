@@ -1,0 +1,209 @@
+{
+  "schemaVersion": 1,
+  "datasetClass": "fictional-realistic-demo",
+  "brandName": "Maison Braise",
+  "tagline": "Burgers, tacos et cuisine généreuse",
+  "locale": "fr-FR",
+  "currency": "EUR",
+  "timezone": "Europe/Paris",
+  "description": "Un restaurant de quartier imaginé autour de burgers, de recettes au poulet et de repas à partager.",
+  "story": {
+    "sinceYear": 2021,
+    "headline": "Une cuisine de quartier, une table pour tous",
+    "paragraphs": [
+      "Maison Braise est un établissement fictif imaginé pour tester un site de restaurant complet. Son univers associe une carte courte, des recettes gourmandes et un accueil simple.",
+      "Dans ce scénario, une petite équipe prépare les commandes au déjeuner et au dîner. Les informations, plats et services ci-dessous sont des données de démonstration."
+    ]
+  },
+  "contact": {
+    "phoneDisplay": "01 00 00 00 00",
+    "phoneIsExample": true,
+    "phoneHref": null,
+    "email": "bonjour@maison-braise.example",
+    "emailHref": null,
+    "website": "https://maison-braise.example",
+    "socialLinks": []
+  },
+  "address": {
+    "street": "12 rue des Saveurs",
+    "postalCode": "69004",
+    "city": "Lyon",
+    "country": "France",
+    "isIllustrative": true,
+    "mapHref": null,
+    "note": "Adresse inventée pour la mise en page; elle ne désigne pas un établissement réel."
+  },
+  "hours": [
+    {
+      "day": "Lundi",
+      "periods": []
+    },
+    {
+      "day": "Mardi",
+      "periods": [
+        [
+          "11:30",
+          "14:30"
+        ],
+        [
+          "18:00",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "day": "Mercredi",
+      "periods": [
+        [
+          "11:30",
+          "14:30"
+        ],
+        [
+          "18:00",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "day": "Jeudi",
+      "periods": [
+        [
+          "11:30",
+          "14:30"
+        ],
+        [
+          "18:00",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "day": "Vendredi",
+      "periods": [
+        [
+          "11:30",
+          "15:00"
+        ],
+        [
+          "18:00",
+          "23:00"
+        ]
+      ]
+    },
+    {
+      "day": "Samedi",
+      "periods": [
+        [
+          "11:30",
+          "15:00"
+        ],
+        [
+          "18:00",
+          "23:00"
+        ]
+      ]
+    },
+    {
+      "day": "Dimanche",
+      "periods": [
+        [
+          "12:00",
+          "15:00"
+        ],
+        [
+          "18:00",
+          "21:30"
+        ]
+      ]
+    }
+  ],
+  "services": {
+    "dineIn": true,
+    "takeaway": true,
+    "delivery": {
+      "enabled": true,
+      "radiusKm": 3,
+      "minimumOrderCents": 1800,
+      "feeCents": 250,
+      "estimatedMinutes": [
+        30,
+        45
+      ]
+    },
+    "seats": 28,
+    "pickupMinutes": [
+      15,
+      25
+    ],
+    "reservationAvailable": false,
+    "isScenario": true
+  },
+  "ordering": {
+    "enabled": false,
+    "channels": [
+      {
+        "name": "Téléphone",
+        "description": "Commande à emporter et retrait au restaurant.",
+        "href": null
+      },
+      {
+        "name": "Livraison",
+        "description": "Zone et disponibilité présentées à titre de scénario.",
+        "href": null
+      }
+    ],
+    "payments": [
+      "Carte bancaire",
+      "Espèces"
+    ],
+    "note": "La démonstration ne reçoit ni commande ni paiement."
+  },
+  "legal": {
+    "publisher": "Maison Braise — établissement fictif",
+    "registrationId": null,
+    "vatId": null,
+    "host": "GitHub Pages, GitHub, Inc.",
+    "privacy": "Cette démonstration ne comporte ni compte ni formulaire d’envoi. Les données affichées sont fictives. GitHub Pages conserve des données de connexion pour la sécurité; les polices sont chargées depuis Google Fonts.",
+    "note": "Aucune identité juridique réelle n’est simulée; les mentions du client devront être confirmées avant publication."
+  },
+  "faq": [
+    {
+      "question": "Peut-on manger sur place ?",
+      "answer": "Dans ce scénario, 28 places sont prévues. La démo ne représente pas une capacité réelle."
+    },
+    {
+      "question": "Comment commander à emporter ?",
+      "answer": "Le site final peut diriger vers le téléphone du restaurant. Les canaux sont désactivés dans cette démonstration."
+    },
+    {
+      "question": "Quels sont les horaires ?",
+      "answer": "Le scénario prévoit une ouverture du mardi au dimanche, au déjeuner et au dîner. Le lundi est fermé."
+    },
+    {
+      "question": "La livraison est-elle disponible ?",
+      "answer": "Le scénario prévoit une zone de 3 km, un minimum de 18 € et 2,50 € de frais. Aucune livraison réelle n’est possible depuis la démo."
+    },
+    {
+      "question": "Y a-t-il des recettes végétariennes ?",
+      "answer": "Plusieurs références du menu fictif portent une option végétarienne. Les compositions d’un vrai menu seront confirmées par le restaurateur."
+    },
+    {
+      "question": "Où trouver les informations sur les allergènes ?",
+      "answer": "Les listes du menu sont des exemples de données. Elles ne servent pas de conseil pour une commande ou une allergie réelle."
+    }
+  ],
+  "media": {
+    "hero": {
+      "src": "assets/hero.png",
+      "alt": "Composition illustrative de burgers, frites et poulet pour le restaurant fictif Maison Braise",
+      "origin": "AI-generated illustrative asset",
+      "notActualRestaurantPhoto": true
+    }
+  },
+  "validation": {
+    "realClient": false,
+    "claimsValidatedForSale": false,
+    "ordersEnabled": false,
+    "note": "Jeu fictif cohérent pour tests de mise en page, de personnalisation et de livraison; aucune traction ou activité réelle."
+  }
+}

@@ -1,0 +1,382 @@
+[
+  {
+    "id": "classique",
+    "name": "Burger classique",
+    "category": "Burgers",
+    "priceCents": 850,
+    "description": "Steak, cheddar, salade, tomate et sauce maison.",
+    "allergensIllustrative": [
+      "gluten",
+      "lait",
+      "œufs"
+    ],
+    "vegetarianScenario": false,
+    "availableInScenario": true,
+    "priceClass": "illustrative_ttc",
+    "datasetClass": "fictional-demo",
+    "price": 8.5
+  },
+  {
+    "id": "double-braise",
+    "name": "Double Braise",
+    "category": "Burgers",
+    "priceCents": 1190,
+    "description": "Deux steaks, cheddar, oignons et sauce fumée.",
+    "allergensIllustrative": [
+      "gluten",
+      "lait",
+      "œufs"
+    ],
+    "vegetarianScenario": false,
+    "availableInScenario": true,
+    "priceClass": "illustrative_ttc",
+    "datasetClass": "fictional-demo",
+    "price": 11.9
+  },
+  {
+    "id": "chicken",
+    "name": "Chicken croustillant",
+    "category": "Burgers",
+    "priceCents": 990,
+    "description": "Poulet croustillant, salade et sauce douce.",
+    "allergensIllustrative": [
+      "gluten",
+      "lait",
+      "œufs"
+    ],
+    "vegetarianScenario": false,
+    "availableInScenario": true,
+    "priceClass": "illustrative_ttc",
+    "datasetClass": "fictional-demo",
+    "price": 9.9
+  },
+  {
+    "id": "veggie",
+    "name": "Burger végétal",
+    "category": "Burgers",
+    "priceCents": 990,
+    "description": "Galette végétale, cheddar, salade et tomate.",
+    "allergensIllustrative": [
+      "gluten",
+      "lait",
+      "œufs"
+    ],
+    "vegetarianScenario": true,
+    "availableInScenario": true,
+    "priceClass": "illustrative_ttc",
+    "datasetClass": "fictional-demo",
+    "price": 9.9
+  },
+  {
+    "id": "bbq",
+    "name": "Burger BBQ",
+    "category": "Burgers",
+    "priceCents": 1090,
+    "description": "Steak, cheddar, oignons et sauce barbecue.",
+    "allergensIllustrative": [
+      "gluten",
+      "lait"
+    ],
+    "vegetarianScenario": false,
+    "availableInScenario": true,
+    "priceClass": "illustrative_ttc",
+    "datasetClass": "fictional-demo",
+    "price": 10.9
+  },
+  {
+    "id": "forestier",
+    "name": "Le Forestier",
+    "category": "Burgers",
+    "priceCents": 1090,
+    "description": "Steak, champignons, fromage et sauce crémeuse.",
+    "allergensIllustrative": [
+      "gluten",
+      "lait"
+    ],
+    "vegetarianScenario": false,
+    "availableInScenario": true,
+    "priceClass": "illustrative_ttc",
+    "datasetClass": "fictional-demo",
+    "price": 10.9
+  },
+  {
+    "id": "tacos-poulet",
+    "name": "Tacos poulet",
+    "category": "Tacos",
+    "priceCents": 950,
+    "description": "Poulet, frites et sauce fromagère.",
+    "allergensIllustrative": [
+      "gluten",
+      "lait"
+    ],
+    "vegetarianScenario": false,
+    "availableInScenario": true,
+    "priceClass": "illustrative_ttc",
+    "datasetClass": "fictional-demo",
+    "price": 9.5
+  },
+  {
+    "id": "tacos-boeuf",
+    "name": "Tacos bœuf",
+    "category": "Tacos",
+    "priceCents": 1050,
+    "description": "Bœuf, frites et sauce fromagère.",
+    "allergensIllustrative": [
+      "gluten",
+      "lait"
+    ],
+    "vegetarianScenario": false,
+    "availableInScenario": true,
+    "priceClass": "illustrative_ttc",
+    "datasetClass": "fictional-demo",
+    "price": 10.5
+  },
+  {
+    "id": "tacos-mix",
+    "name": "Tacos mixte",
+    "category": "Tacos",
+    "priceCents": 1190,
+    "description": "Poulet et bœuf, frites et sauce fromagère.",
+    "allergensIllustrative": [
+      "gluten",
+      "lait"
+    ],
+    "vegetarianScenario": false,
+    "availableInScenario": true,
+    "priceClass": "illustrative_ttc",
+    "datasetClass": "fictional-demo",
+    "price": 11.9
+  },
+  {
+    "id": "tacos-veggie",
+    "name": "Tacos végétarien",
+    "category": "Tacos",
+    "priceCents": 950,
+    "description": "Légumes, galette végétale, frites et sauce fromagère.",
+    "allergensIllustrative": [
+      "gluten",
+      "lait"
+    ],
+    "vegetarianScenario": true,
+    "availableInScenario": true,
+    "priceClass": "illustrative_ttc",
+    "datasetClass": "fictional-demo",
+    "price": 9.5
+  },
+  {
+    "id": "tenders",
+    "name": "Tenders x4",
+    "category": "Chicken",
+    "priceCents": 690,
+    "description": "Quatre pièces de poulet croustillant.",
+    "allergensIllustrative": [
+      "gluten",
+      "œufs"
+    ],
+    "vegetarianScenario": false,
+    "availableInScenario": true,
+    "priceClass": "illustrative_ttc",
+    "datasetClass": "fictional-demo",
+    "price": 6.9
+  },
+  {
+    "id": "wings",
+    "name": "Wings x6",
+    "category": "Chicken",
+    "priceCents": 650,
+    "description": "Six ailes de poulet marinées.",
+    "allergensIllustrative": [
+      "gluten"
+    ],
+    "vegetarianScenario": false,
+    "availableInScenario": true,
+    "priceClass": "illustrative_ttc",
+    "datasetClass": "fictional-demo",
+    "price": 6.5
+  },
+  {
+    "id": "nuggets",
+    "name": "Nuggets x6",
+    "category": "Chicken",
+    "priceCents": 590,
+    "description": "Six nuggets de poulet.",
+    "allergensIllustrative": [
+      "gluten",
+      "lait",
+      "œufs"
+    ],
+    "vegetarianScenario": false,
+    "availableInScenario": true,
+    "priceClass": "illustrative_ttc",
+    "datasetClass": "fictional-demo",
+    "price": 5.9
+  },
+  {
+    "id": "bucket",
+    "name": "Bucket à partager",
+    "category": "Chicken",
+    "priceCents": 1690,
+    "description": "Un assortiment fictif de tenders et wings, accompagné de frites.",
+    "allergensIllustrative": [
+      "gluten",
+      "œufs"
+    ],
+    "vegetarianScenario": false,
+    "availableInScenario": true,
+    "priceClass": "illustrative_ttc",
+    "datasetClass": "fictional-demo",
+    "price": 16.9
+  },
+  {
+    "id": "salade-poulet",
+    "name": "Salade poulet",
+    "category": "Salades",
+    "priceCents": 990,
+    "description": "Salade, poulet, tomates et croûtons.",
+    "allergensIllustrative": [
+      "gluten",
+      "œufs"
+    ],
+    "vegetarianScenario": false,
+    "availableInScenario": true,
+    "priceClass": "illustrative_ttc",
+    "datasetClass": "fictional-demo",
+    "price": 9.9
+  },
+  {
+    "id": "salade-vegetale",
+    "name": "Salade végétale",
+    "category": "Salades",
+    "priceCents": 890,
+    "description": "Salade, tomates, légumes et vinaigrette.",
+    "allergensIllustrative": [
+      "moutarde"
+    ],
+    "vegetarianScenario": true,
+    "availableInScenario": true,
+    "priceClass": "illustrative_ttc",
+    "datasetClass": "fictional-demo",
+    "price": 8.9
+  },
+  {
+    "id": "salade-chevre",
+    "name": "Salade chèvre",
+    "category": "Salades",
+    "priceCents": 990,
+    "description": "Salade, chèvre, tomates et croûtons.",
+    "allergensIllustrative": [
+      "gluten",
+      "lait"
+    ],
+    "vegetarianScenario": true,
+    "availableInScenario": true,
+    "priceClass": "illustrative_ttc",
+    "datasetClass": "fictional-demo",
+    "price": 9.9
+  },
+  {
+    "id": "brownie",
+    "name": "Brownie chocolat",
+    "category": "Desserts",
+    "priceCents": 390,
+    "description": "Une portion de brownie au chocolat.",
+    "allergensIllustrative": [
+      "gluten",
+      "lait",
+      "œufs"
+    ],
+    "vegetarianScenario": true,
+    "availableInScenario": true,
+    "priceClass": "illustrative_ttc",
+    "datasetClass": "fictional-demo",
+    "price": 3.9
+  },
+  {
+    "id": "cookie",
+    "name": "Cookie maison",
+    "category": "Desserts",
+    "priceCents": 290,
+    "description": "Un cookie aux pépites de chocolat.",
+    "allergensIllustrative": [
+      "gluten",
+      "lait",
+      "œufs"
+    ],
+    "vegetarianScenario": true,
+    "availableInScenario": true,
+    "priceClass": "illustrative_ttc",
+    "datasetClass": "fictional-demo",
+    "price": 2.9
+  },
+  {
+    "id": "tiramisu",
+    "name": "Tiramisu",
+    "category": "Desserts",
+    "priceCents": 450,
+    "description": "Un dessert individuel au café.",
+    "allergensIllustrative": [
+      "gluten",
+      "lait",
+      "œufs"
+    ],
+    "vegetarianScenario": true,
+    "availableInScenario": true,
+    "priceClass": "illustrative_ttc",
+    "datasetClass": "fictional-demo",
+    "price": 4.5
+  },
+  {
+    "id": "glace",
+    "name": "Glace deux boules",
+    "category": "Desserts",
+    "priceCents": 390,
+    "description": "Deux boules, parfums de démonstration.",
+    "allergensIllustrative": [
+      "lait"
+    ],
+    "vegetarianScenario": true,
+    "availableInScenario": true,
+    "priceClass": "illustrative_ttc",
+    "datasetClass": "fictional-demo",
+    "price": 3.9
+  },
+  {
+    "id": "cola",
+    "name": "Cola 33 cl",
+    "category": "Boissons",
+    "priceCents": 250,
+    "description": "Une boisson fraîche de 33 cl.",
+    "allergensIllustrative": [],
+    "vegetarianScenario": true,
+    "availableInScenario": true,
+    "priceClass": "illustrative_ttc",
+    "datasetClass": "fictional-demo",
+    "price": 2.5
+  },
+  {
+    "id": "eau",
+    "name": "Eau 50 cl",
+    "category": "Boissons",
+    "priceCents": 200,
+    "description": "Une bouteille d’eau de 50 cl.",
+    "allergensIllustrative": [],
+    "vegetarianScenario": true,
+    "availableInScenario": true,
+    "priceClass": "illustrative_ttc",
+    "datasetClass": "fictional-demo",
+    "price": 2
+  },
+  {
+    "id": "the-glace",
+    "name": "Thé glacé 33 cl",
+    "category": "Boissons",
+    "priceCents": 250,
+    "description": "Une boisson au thé de 33 cl.",
+    "allergensIllustrative": [],
+    "vegetarianScenario": true,
+    "availableInScenario": true,
+    "priceClass": "illustrative_ttc",
+    "datasetClass": "fictional-demo",
+    "price": 2.5
+  }
+]
